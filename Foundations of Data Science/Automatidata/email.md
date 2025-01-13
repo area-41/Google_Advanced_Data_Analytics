@@ -1,5 +1,4 @@
-## Email Notes welcome
-### Opening your inbox, you notice an email from your supervisor, Deshawn.
+## Email Notes
 
 From: Deshawn Washington</br>
 Subject: Review meeting notes
