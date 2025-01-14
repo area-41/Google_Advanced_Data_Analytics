@@ -20,3 +20,19 @@ Investigate using variables and data types to store and organize data and practi
 
 ![image](https://github.com/user-attachments/assets/19e174ac-8a4e-4be9-b9fd-23be4d490740)
 
+
+![image](https://github.com/user-attachments/assets/fc23d09b-56d8-431f-ab1e-c636a0042615)
+![image](https://github.com/user-attachments/assets/179d1df8-07fe-4cc5-8787-5d5afb3baf9d)
+
+
+![image](https://github.com/user-attachments/assets/996bd3b3-08a2-4823-9dd0-bfaac718ed1e)
+![image](https://github.com/user-attachments/assets/0a2211b4-082a-41ca-8e44-b9526d2ccb57)
+
+
+![image](https://github.com/user-attachments/assets/c1e3298d-f828-4173-b9e5-741afb3f61d0)
+
+
+
+
+
+
