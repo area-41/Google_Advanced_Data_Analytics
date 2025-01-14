@@ -17,3 +17,6 @@ ___
 
 To explore the basics of Python programming and why Python is such a powerful tool for data analysis, use Jupyter Notebooks, an interactive environment for coding and data work. 
 Investigate using variables and data types to store and organize data and practice important coding skills.
+
+![image](https://github.com/user-attachments/assets/19e174ac-8a4e-4be9-b9fd-23be4d490740)
+
